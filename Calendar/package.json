@@ -1,0 +1,19 @@
+{
+  "name": "school_calendar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "FlvLujU Appsv",
+  "license": "ISC",
+  "devDependencies": {
+    "@zeppos/device-types": "^1.0.0"
+  },
+  "dependencies": {
+    "@zeppos/zeus-cli": "^1.6.0",
+    "@zeppos/zml": "^0.0.29",
+    "@zeppos/zpm": "^3.1.0"
+  }
+}
